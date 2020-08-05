@@ -6,6 +6,10 @@ import sys
 
 x, y = [], []
 check = ["title", "xaxis", "yaxis",'s0']
+pTitle = "title"
+xLabel = "X"
+yLabel = "Y"
+pLegend = ""
 
 file = sys.argv[1]
 
